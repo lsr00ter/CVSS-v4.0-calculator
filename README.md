@@ -2,4 +2,4 @@
 
 Deployed: <https://cvss.xc1ym.com>
 
-翻译自: <https://github.com/RedHatProductSecurity/cvss-v4-calculator>
+翻译自：<https://github.com/RedHatProductSecurity/cvss-v4-calculator>
